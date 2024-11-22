@@ -1,8 +1,7 @@
-## PGP: 9D1B D304 339B 2D31 CFA5  637A 2F5B 10B9 29CA C959
+## PGP Public Key
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-
 mDMEZyAeSRYJKwYBBAHaRw8BAQdApmzOKfrOASzxIxbnJWhr5bGOMEI+Luz0upSG
 Z/i1CqC0MlJlbWNvIFJvcyAoZ2l0aHViLmNvbS9yZW1jb3JvcykgPHJlbWNvcm9z
 QGxpdmUubmw+iJMEExYKADsWIQSdG9MEM5stMc+lY3ovWxC5KcrJWQUCZyAeSQIb
@@ -16,3 +15,5 @@ Ig4=
 =DGuO
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+**Fingerprint:** 9D1B D304 339B 2D31 CFA5  637A 2F5B 10B9 29CA C959 <sup>[key on openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/9D1BD304339B2D31CFA5637A2F5B10B929CAC959)</sup>
