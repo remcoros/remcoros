@@ -30,5 +30,4 @@ MCowBQYDK2VwAyEAca5zKlSEujrCC3fXqbSQj77pnkFEuHj4TMdvikBLtmI=
 -----END PUBLIC KEY-----
 ```                                                                                                
 
-**SHA-256 fingerprint (DER):**
-`fcc475e18596607e99d4b6e13041f81bd70603e919c3d38525801de5fc12efd7`
+**SHA-256 fingerprint (as displayed in StartOS):** `SHA256:/MR14YWWYH6Z1LbhMEH4G9cGA+kZw9OFJYAd5fwS79c`
