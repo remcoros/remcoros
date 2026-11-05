@@ -16,4 +16,19 @@ Ig4=
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-**Fingerprint:** 9D1B D304 339B 2D31 CFA5  637A 2F5B 10B9 29CA C959 <sup>[key on openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/9D1BD304339B2D31CFA5637A2F5B10B929CAC959)</sup>
+**Fingerprint:** `9D1B D304 339B 2D31 CFA5  637A 2F5B 10B9 29CA C959` <sup>[key on openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/9D1BD304339B2D31CFA5637A2F5B10B929CAC959)</sup>
+
+## StartOS registry
+                                                                                                     
+I maintain https://registry.testnet4.info, a personal registry of StartOS service packages, including testnet4 services.
+
+Before adding the registry, verify that its offered package-signing key matches the public key below. Trust this key for service packages only.
+
+```pem
+-----BEGIN PUBLIC KEY-----
+MCowBQYDK2VwAyEAca5zKlSEujrCC3fXqbSQj77pnkFEuHj4TMdvikBLtmI=
+-----END PUBLIC KEY-----
+```                                                                                                
+
+**SHA-256 fingerprint (DER):**
+`fcc475e18596607e99d4b6e13041f81bd70603e919c3d38525801de5fc12efd7`
