@@ -10,8 +10,6 @@ Building useful tools, exploring ideas, and making services feel at home on your
 
 </div>
 
----
-
 ## Projects
 
 ### 🔎 [Chaingraph](https://github.com/remcoros/chaingraph)
@@ -33,7 +31,7 @@ Self-hosted tools for different jobs:
 
 ## Find me
 
-[⚡ Lightning](https://lnpay.me) &nbsp; / &nbsp; [🪶 Nostr](https://njump.me/nprofile1qqs2a5qg3d508v252vn8dzp9l57jq7suxvuhaqwv2dcxswfq7av6x6cxklgvt) &nbsp; / &nbsp; [𝕏 @remcoros](https://x.com/remcoros)
+⚡[Lightning](https://lnpay.me) &nbsp; / &nbsp; 🪶[Nostr](https://njump.me/nprofile1qqs2a5qg3d508v252vn8dzp9l57jq7suxvuhaqwv2dcxswfq7av6x6cxklgvt) &nbsp; / &nbsp; 𝕏 [@remcoros](https://x.com/remcoros)
 
 ## Keys & registry
 
